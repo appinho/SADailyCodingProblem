@@ -9,7 +9,7 @@ Bonus: Can you do this in one pass?
 # Test cases
 
 ```
-2			# Number of test cases  
+2		# Number of test cases  
 4 17		# Array length N, sum K  
 10 15 3 7	# Array elements  
 4 16		# Array length N, sum K  
