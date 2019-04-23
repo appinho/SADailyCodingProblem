@@ -26,5 +26,6 @@ Feel free to add different test cases.
 Try it first on your own, but if you feel stuck look step by step at the following hints
 
 * 1: Think about a Brute Force solution. Can you do it in O(N^2) where N is the length of the list?  
-* 2: Think about a data structure that helps you to store previous numbers.
-* 3: Store the difference of k to the previous numbers in a hash set, since no key **and** value is needed, to do it on O(N) time.
+* 2: What information would be helpful to be stored for future array elements?
+* 3: Think about a memory efficient data structure that helps you to store this information.
+* 4: Store the difference of k to the previous numbers in a hash set, a hash table or dictionary is not needed since no key **and** value is needed, to do it in O(N) time and O(N) space.
