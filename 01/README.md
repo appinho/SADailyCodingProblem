@@ -16,19 +16,15 @@ Bonus: Can you do this in one pass?
 10 15 3 7	# Array elements  
 ```
 
-Should return:  
-True, since 10 and 7 adds up to 17
-False, since no two numbers add up to 16
+* t=1: True, since 10 and 7 adds up to 17
+* t=2: False, since no two numbers add up to 16
 
-Feel free to try different test cases. 
+Feel free to add different test cases. 
 
 # Hints
 
-## Hint 1
-* Think about a Brute Force solution. Can you do it in O(N^2) where N is the length of the list?  
+Try it first on your own, but if you feel stuck look step by step at the following hints
 
-## Hint 2
-* Think about a data structure that helps you to store previous numbers.
-
-## Hint 3
-* Store the difference of k to the previous numbers in a hash set, since no key **and** value is needed, to do it on O(N) time.
+* 1: Think about a Brute Force solution. Can you do it in O(N^2) where N is the length of the list?  
+* 2: Think about a data structure that helps you to store previous numbers.
+* 3: Store the difference of k to the previous numbers in a hash set, since no key **and** value is needed, to do it on O(N) time.
