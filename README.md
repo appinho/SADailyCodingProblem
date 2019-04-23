@@ -1,5 +1,5 @@
 # SADailyCodingProblem
-Ensemble of all Daily Coding Problems in C++ and Python with explanation and solution
+Ensemble of all Daily Coding Problems in C++ and Python with test cases, hints and solutions
 
 ## How To
 
