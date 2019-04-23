@@ -16,10 +16,10 @@ Feel free to try different test cases.
 # Hints
 
 ## Hint 1
-- Think about a Brute Force solution. Can you do it in O(N^2) where N is the length of the list?  
+* Think about a Brute Force solution. Can you do it in O(N^2) where N is the length of the list?  
 
 ## Hint 2
-- Think about a data structure that helps you to store previous numbers.
+* Think about a data structure that helps you to store previous numbers.
 
 ## Hint 3
-- Store the difference of k to the previous numbers in a hash set, since no key AND value is needed, to do it on O(N) time.
+* Store the difference of k to the previous numbers in a hash set, since no key AND value is needed, to do it on O(N) time.
