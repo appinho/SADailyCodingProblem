@@ -23,7 +23,7 @@ Feel free to add different test cases.
 
 # Hints
 
-Try it first on your own, but if you feel stuck look step by step at the following hints
+Try it first on your own, but if you feel stuck have a glance at the following hints one by another:
 
 * 1: Think about a Brute Force solution. Can you do it in O(N^2) where N is the length of the list?  
 * 2: What information would be helpful to be stored for future array elements?
