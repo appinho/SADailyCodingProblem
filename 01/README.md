@@ -9,10 +9,16 @@ Bonus: Can you do this in one pass?
 # Test cases
 
 ```
-1			# Number of test cases  
+2			# Number of test cases  
 4 17		# Array length N, sum K  
 10 15 3 7	# Array elements  
+4 16		# Array length N, sum K  
+10 15 3 7	# Array elements  
 ```
+
+Should return:  
+True, since 10 and 7 adds up to 17
+False, since no two numbers add up to 16
 
 Feel free to try different test cases. 
 
